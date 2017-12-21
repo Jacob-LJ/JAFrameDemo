@@ -1,0 +1,6 @@
+framework module Pods_JAFrameDemo {
+  umbrella header "Pods-JAFrameDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

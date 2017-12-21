@@ -1,0 +1,14 @@
+PODS:
+  - JAPowerKit (0.0.1):
+    - JAPowerKit/Base (= 0.0.1)
+  - JAPowerKit/Base (0.0.1)
+
+DEPENDENCIES:
+  - JAPowerKit
+
+SPEC CHECKSUMS:
+  JAPowerKit: e279f66fa3b42c996030e2778f338a793a3170a9
+
+PODFILE CHECKSUM: e00bca7a09250973a7d7f76ba881ea434cc4c375
+
+COCOAPODS: 1.3.1

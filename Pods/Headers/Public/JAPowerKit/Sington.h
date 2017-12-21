@@ -1,0 +1,1 @@
+../../../JAPowerKit/JAPowerKit/Classes/Base/Macros/Sington.h
